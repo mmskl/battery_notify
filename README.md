@@ -1,4 +1,6 @@
-# Simple script to notify that your battery exceed specified percentage
+# Battery Notify
+
+## Simple script to notify that your battery exceed specified percentage
 
 ## Description
 
